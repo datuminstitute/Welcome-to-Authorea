@@ -6,4 +6,4 @@ section_Transdisciplinary_Research_with_Social__1.tex
 section_Our_Operation_We_will__.tex
 section_Apendix_A_Member_of__.tex
 section_Articles_of_Incorporation_FIRST__.tex
-section_Bylaws_of_The_Datum__.tex
+textit_section_Bylaws_of_The__.tex
