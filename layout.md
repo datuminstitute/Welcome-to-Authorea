@@ -4,6 +4,6 @@ section_The_landscape_in_2015__.tex
 section_Market_Need_for_and__.tex
 section_Transdisciplinary_Research_with_Social__1.tex
 section_Our_Operation_We_will__.tex
-section_Apendix_A_Member_of__.tex
+section_Apendix_We_will_not__.tex
 section_Articles_of_Incorporation_FIRST__.tex
 textit_section_Bylaws_of_The__.tex
